@@ -1,0 +1,8 @@
+prefix=/home/pvigo/tugas1/catkin_ws/devel
+
+Name: digit_drawer
+Description: Description of digit_drawer
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
